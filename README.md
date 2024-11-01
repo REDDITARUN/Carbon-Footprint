@@ -2,6 +2,8 @@
 
 This repository provides insights and tools to understand and reduce the carbon footprint associated with technology, particularly focusing on cloud computing and AI model training. It includes scripts to fetch real-time carbon intensity data, calculate carbon emissions, and set up environmentally efficient model training on Google Cloud's Vertex AI.
 
+More about it: https://medium.com/@teendifferent/green-computing-harnessing-ai-for-a-sustainable-future-0626cc94efaa
+
 ## Features
 
 - **Carbon Intensity Data Fetching:** Retrieve real-time carbon intensity data using the Electricity Map API.
